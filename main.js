@@ -1,6 +1,3 @@
-//-------------------email validation-------------------
-
-// clear form onload page
 window.onload = (function() {
   $('#email').val(null);
   $("input[id='email']").val('');
